@@ -1,13 +1,16 @@
 # Blog
-## 1. Java
+## 1. JavaScript
 ### 1.1 思维导图
+### 1.2 学习笔记
+### 1.3 参考文献
+  1. [V8引擎怎样对属性进行快速访问](https://github.com/xitu/gold-miner/blob/master/TODO/fast-properties-in-v8.md)
+
+## 2. Java
+### 2.1 思维导图
   1. [Java的面向对象特征](./MindMap/Java/Java的面向对象特征.png)
   2. [Java数据类型和运算符](./MindMap/Java/Java数据类型和运算符.png)
   3. [类和对象：类定义、static](./MindMap/Java/[类和对象]之类定义、static.png)
   4. [类和对象：方法详解](./MindMap/Java/[类和对象]之方法详解.png)
-
-## 2. JavaScript
-### 2.1 思维导图
 
 ## 3. [趣谈网络协议](https://time.geekbang.org/column/intro/85)
 ### 3.1 思维导图

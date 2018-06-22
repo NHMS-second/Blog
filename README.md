@@ -2,6 +2,8 @@
 ## 1. JavaScript
 ### 1.1 思维导图
 ### 1.2 学习笔记
+  1. [Array.prototype.filter实现数组去重](./Notes/JavaScript/Array.prototype.filter实现数组去重.js)
+  2. [实现Promise.prototype.finally()](./Notes/JavaScript/实现Promise.prototype.finally().js)  
 ### 1.3 参考文献
   1. [V8引擎怎样对属性进行快速访问](https://github.com/xitu/gold-miner/blob/master/TODO/fast-properties-in-v8.md)   
   2. [六个字符构建JavaScript世界](https://mp.weixin.qq.com/s/9Qb9rEc3aTi7wj49vIkUTg)  

@@ -3,7 +3,9 @@
 ### 1.1 思维导图
 ### 1.2 学习笔记
 ### 1.3 参考文献
-  1. [V8引擎怎样对属性进行快速访问](https://github.com/xitu/gold-miner/blob/master/TODO/fast-properties-in-v8.md)
+  1. [V8引擎怎样对属性进行快速访问](https://github.com/xitu/gold-miner/blob/master/TODO/fast-properties-in-v8.md)   
+  2. [六个字符构建JavaScript世界](https://mp.weixin.qq.com/s/9Qb9rEc3aTi7wj49vIkUTg)  
+  > 三条黄金法则：（1）通过 ! 转换为布尔(Boolean)类型；（2）通过 + 转换为数值(Number)类型；（3）与 [ ] 相加转换为字符(String)类型。
 
 ## 2. Java
 ### 2.1 思维导图

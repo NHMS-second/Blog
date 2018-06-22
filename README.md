@@ -5,8 +5,8 @@
 ### 1.3 参考文献
   1. [V8引擎怎样对属性进行快速访问](https://github.com/xitu/gold-miner/blob/master/TODO/fast-properties-in-v8.md)   
   2. [六个字符构建JavaScript世界](https://mp.weixin.qq.com/s/9Qb9rEc3aTi7wj49vIkUTg)  
-  > 三条黄金法则：（1）通过 ! 转换为布尔(Boolean)类型；（2）通过 + 转换为数值(Number)类型；（3）与 [ ] 相加转换为字符(String)类型。
-
+  > 三条黄金法则：（1）通过 ! 转换为布尔(Boolean)类型；（2）通过 + 转换为数值(Number)类型；（3）与 [ ] 相加转换为字符(String)类型。   
+  3. [关于JavaScript单线程的一些事](https://github.com/JChehe/blog/blob/master/posts/%E5%85%B3%E4%BA%8EJavaScript%E5%8D%95%E7%BA%BF%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B.md)  
 ## 2. Java
 ### 2.1 思维导图
   1. [Java的面向对象特征](./MindMap/Java/Java的面向对象特征.png)

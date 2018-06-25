@@ -11,10 +11,8 @@
   > 三条黄金法则：（1）通过 ! 转换为布尔(Boolean)类型；（2）通过 + 转换为数值(Number)类型；（3）与 [ ] 相加转换为字符(String)类型。   
   3. [关于JavaScript单线程的一些事](https://github.com/JChehe/blog/blob/master/posts/%E5%85%B3%E4%BA%8EJavaScript%E5%8D%95%E7%BA%BF%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B.md)  
   4. [史上最易读懂的 Promise/A+ 完全实现](https://zhuanlan.zhihu.com/p/21834559)      
-  5. [理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)   
-  6. [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)    
-  7. [30秒无需编码完成一个REST API服务](https://juejin.im/post/5b2b49d151882574b1588dd7?utm_source=gold_browser_extension)      
-  8. [JS忍者秘籍中的定时器机制详解](https://juejin.im/post/5b25f190f265da595e3cc1ab?utm_source=gold_browser_extension)     
+  5. **REST API：**[(1) 理解RESTful架构;](http://www.ruanyifeng.com/blog/2011/09/restful.html)  [(2) RESTful API 设计指南;](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)  [(3) 30秒无需编码完成一个REST API服务](https://juejin.im/post/5b2b49d151882574b1588dd7?utm_source=gold_browser_extension)      
+  6. **定时器：**[(1) JS忍者秘籍中的定时器机制详解;](https://juejin.im/post/5b25f190f265da595e3cc1ab?utm_source=gold_browser_extension)     
 
 ## 2. Java
 ### 2.1 思维导图

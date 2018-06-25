@@ -13,7 +13,8 @@
   4. [史上最易读懂的 Promise/A+ 完全实现](https://zhuanlan.zhihu.com/p/21834559)      
   5. [理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)   
   6. [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)    
-  7. [30秒无需编码完成一个REST API服务](https://juejin.im/post/5b2b49d151882574b1588dd7?utm_source=gold_browser_extension)   
+  7. [30秒无需编码完成一个REST API服务](https://juejin.im/post/5b2b49d151882574b1588dd7?utm_source=gold_browser_extension)      
+  8. [JS忍者秘籍中的定时器机制详解](https://juejin.im/post/5b25f190f265da595e3cc1ab?utm_source=gold_browser_extension)     
 
 ## 2. Java
 ### 2.1 思维导图

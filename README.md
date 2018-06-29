@@ -14,6 +14,7 @@
   4. [史上最易读懂的 Promise/A+ 完全实现](https://zhuanlan.zhihu.com/p/21834559)      
   5. **REST API：**[(1) 理解RESTful架构;](http://www.ruanyifeng.com/blog/2011/09/restful.html)  [(2) RESTful API 设计指南;](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)  [(3) 30秒无需编码完成一个REST API服务](https://juejin.im/post/5b2b49d151882574b1588dd7?utm_source=gold_browser_extension)      
   6. **定时器：**[(1) JS忍者秘籍中的定时器机制详解;](https://juejin.im/post/5b25f190f265da595e3cc1ab?utm_source=gold_browser_extension)     
+  7. **正则表达式：**[(1) 入门1;](https://segmentfault.com/a/1190000009324194)  [(2) 入门2;](http://www.runoob.com/w3cnote/regular-expression-30-minutes-tutorial.html)  [(3) 玩转正则表达式;](http://imweb.io/topic/56e804ef1a5f05dc50643106)  [(4) 进阶: 活学妙用奇淫正则表达式;](https://github.com/jawil/blog/issues/20)  [(5) 跟着轮子哥构造正则表达式引擎;](http://www.cppblog.com/vczh/archive/2008/05/22/50763.html)  [(6) 在线工具;](https://regexr.com/)
 
 ## 2. Java
 ### 2.1 思维导图

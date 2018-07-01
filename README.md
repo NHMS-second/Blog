@@ -11,7 +11,7 @@
   2. [六个字符构建JavaScript世界](https://mp.weixin.qq.com/s/9Qb9rEc3aTi7wj49vIkUTg)  
   > 三条黄金法则：（1）通过 ! 转换为布尔(Boolean)类型；（2）通过 + 转换为数值(Number)类型；（3）与 [ ] 相加转换为字符(String)类型。   
   3. [关于JavaScript单线程的一些事](https://github.com/JChehe/blog/blob/master/posts/%E5%85%B3%E4%BA%8EJavaScript%E5%8D%95%E7%BA%BF%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B.md)  
-  4. [史上最易读懂的 Promise/A+ 完全实现](https://zhuanlan.zhihu.com/p/21834559)      
+  4. **Promise：**[(1) 史上最易读懂的 Promise/A+ 完全实现;](https://zhuanlan.zhihu.com/p/21834559)  [(2) BAT前端经典面试问题：史上最最最详细的手写Promise教程;](https://juejin.im/post/5b2f02cd5188252b937548ab?utm_medium=fe&utm_source=weixinqun)
   5. **REST API：**[(1) 理解RESTful架构;](http://www.ruanyifeng.com/blog/2011/09/restful.html)  [(2) RESTful API 设计指南;](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)  [(3) 30秒无需编码完成一个REST API服务](https://juejin.im/post/5b2b49d151882574b1588dd7?utm_source=gold_browser_extension)      
   6. **定时器：**[(1) JS忍者秘籍中的定时器机制详解;](https://juejin.im/post/5b25f190f265da595e3cc1ab?utm_source=gold_browser_extension)     
   7. **正则表达式：**[(1) 入门1;](https://segmentfault.com/a/1190000009324194)  [(2) 入门2;](http://www.runoob.com/w3cnote/regular-expression-30-minutes-tutorial.html)  [(3) 玩转正则表达式;](http://imweb.io/topic/56e804ef1a5f05dc50643106)  [(4) 进阶: 活学妙用奇淫正则表达式;](https://github.com/jawil/blog/issues/20)  [(5) 跟着轮子哥构造正则表达式引擎;](http://www.cppblog.com/vczh/archive/2008/05/22/50763.html)  [(6) 在线工具;](https://regexr.com/)

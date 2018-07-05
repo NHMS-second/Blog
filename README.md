@@ -68,14 +68,20 @@
 ### 3.3 参考文献
   1. [跟着动画来学习TCP三次握手和四次挥手](https://juejin.im/post/5b29d2c4e51d4558b80b1d8c)    
 
-## 4. CSS
+## 4. 算法与数据结构
 ### 4.1 思维导图
 ### 4.2 学习笔记
 ### 4.3 参考文献
+  1. [[译文] 初学者应该了解的数据结构：Array、HashMap 与 List](https://juejin.im/post/5b3731b36fb9a00e5326f087?utm_medium=fe&utm_source=weixinqun)     
+
+## 5. CSS
+### 5.1 思维导图
+### 5.2 学习笔记
+### 5.3 参考文献
   1. [CSS动画：animation、transition、transform、translate傻傻分不清](https://juejin.im/post/5b137e6e51882513ac201dfb)    
 
-## 5. 程序是怎样跑起来的
-### 5.1 思维导图
+## 6. 程序是怎样跑起来的
+### 6.1 思维导图
   1. [CPU内部结构、寄存器、函数的调用机制、程序计数器、地址、CPU的处理](./MindMap/程序是怎样跑起来的/对程序员来说CPU是什么.png)
   2. [数据是用二进制数表示、补数、移位运算和乘除运算的关系](./MindMap/程序是怎样跑起来的/数据是用二进制数表示的.png)
   3. [计算机进行小数运算时出错的原因](./MindMap/程序是怎样跑起来的/计算机进行小数运算时出错的原因.png)
